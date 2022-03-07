@@ -1,0 +1,38 @@
+.feed {
+    width: 48vw;
+    margin-top: 25px;
+}
+
+.feed__inputContainer {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.feed__input {
+    display: flex;
+    padding: 15px;
+    border-radius: 30px;
+    align-items: center;
+    border: 1px solid lightgray;
+}
+
+.submit_btn {
+    display: none;
+}
+
+.post__input {
+    border: none;
+    margin-left: 10px;
+    outline: none;
+}
+
+.post__input::placeholder {
+    font-weight: 500;
+    font-size: 15px;
+    color: #666666;
+}
+
+.inputIcon {
+    color: #666666;
+}

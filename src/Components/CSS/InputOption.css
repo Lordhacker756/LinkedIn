@@ -1,0 +1,28 @@
+.feed__inputOptions {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    padding-bottom: 5px;
+    align-items: center;
+}
+
+.inputOption__option {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.inputOption__title:hover {
+    color: black;
+}
+
+.inputOption__icon:hover {
+    color: #666666;
+}
+
+.inputOption__title {
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #666666;
+}

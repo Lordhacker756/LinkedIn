@@ -7,6 +7,7 @@
     margin: 25px 35px 35px 35px;
     border: 0.5px solid lightgray;
     border-radius: 10px 10px 10px 10px;
+    height: fit-content;
 }
 
 .sidebar__top {
